@@ -36,6 +36,7 @@
 html{
     /* 10 pixels */
     font-size: 62.5%;
+    scroll-behavior: smooth;
 }
 
 body{
