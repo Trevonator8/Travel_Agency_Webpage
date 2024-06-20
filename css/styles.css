@@ -40,7 +40,7 @@ html{
 }
 
 body{
-    font-family: var(--font0family);
+    font-family: var(--font-family);
     font-size: var(--font-size-sm);
     color: var(--dark-clr);
     overflow-x: hidden;
@@ -62,6 +62,10 @@ img{
 
 i{
     font-size: var(--margin-md);
+}
+
+.list-item {
+    list-style-type: none;
 }
 
 /* Reusable */
